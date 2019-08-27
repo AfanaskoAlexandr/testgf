@@ -1,4 +1,4 @@
-git clone git@github.com:AfanaskoAlexandr/gftest.git
+git clone git@github.com:AfanaskoAlexandr/testgf.git
 
 cd testgf
 
